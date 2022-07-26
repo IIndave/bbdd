@@ -3,7 +3,8 @@
 		"id": 1,
 		"nombre": "Tortilla de Patata sin cebolla",
 		"tiempo": "15 minutos",
-		"ingredientes": {
+		"ingredientes": [
+			{
 				"id": 1,
 				"nombre": "Aceite",
 				"cantidad": "250",
@@ -21,6 +22,7 @@
 				"cantidad": "2",
 				"medida": "u"
 			}
+		],
 		"preparacion": "Pelar las patatas y cortarlas por la mitad en sentido vertical, y luego en rodajas de 2 mm de grosor aproximadamente. Calentar el aceite en una sarten y verter las patatas.Mientras se pochan las patatas batimos los 6 huevos en un bol lo bastante grande para añadir las patatas posteriormente. Una vez se hayan pochado las patatas(10 - 15 minutos), las sacamos del aceite y las vertimos en los huevos batidos. Mantenemos un poco del aceite en la sarten y el aceite restante lo podemos guardar para próximas elaboraciones. Calentamos la sarten a fuego medio y vertimos la mezcla de los huevos y las patatas.Con una espatula de plastico remover en la sarten empujando desde los laterales hacia el centro, de esta forma, conseguimos que el huevo se vaya cuajando sin quemarse. Cuando tenemos el exterior de la tortilla bien cuajada y el interior esta cremoso incluso un poco liquido le daremos la vuelta a la tortilla con la ayuda de plato o una tapa llanos. Verter cuidadosamente la tortilla de vuelta en la sarten y con el fuego alto durante 1 minuto para conseguir que se cuaje bien la tortilla y mantener el centro lo mas cremoso posible.",
 		"imagen": "https://upload.wikimedia.org/wikipedia/commons/4/41/Tortilla_patatas.jpg"
 	}]
