@@ -1,7 +1,66 @@
 {
+	"Ingredientes":[
+		{
+			"id": 1,
+			"nombre": "Aceite"
+		},
+		{
+			"id": 2,
+			"nombre": "Huevo"
+		},
+		{
+			"id": 3,
+			"nombre": "Patata"
+		},
+		{
+			"id": 4,
+			"nombre": "Manzana"
+		},
+		{
+			"id": 5,
+			"nombre": "Harina de trigo"
+		},
+		{
+			"id": 6,
+			"nombre": "Azucar moreno"
+		},
+		{
+			"id": 7,
+			"nombre": "Leche"
+		},
+		{
+			"id": 8,
+			"nombre": "Puerro"
+		},
+		{
+			"id": 9,
+			"nombre": "Nata líquida"
+		},
+		{
+			"id": 10,
+			"nombre": "Merluza"
+		},
+		{
+			"id": 11,
+			"nombre": "Gambas"
+		},
+		{
+			"id": 12,
+			"nombre": "Mantequilla"
+		},
+		{
+			"id": 13,
+			"nombre": "Zanahoria"
+		},
+		{
+			"id": 14,
+			"nombre": "Salmon"
+		}
+      ],
 	"Recetas": [
 		{
 		"id": 1,
+		"dificultad":"Baja",
 		"nombre": "Tortilla de Patata sin cebolla",
 		"tiempo": "20",
 		"ingredientes": [
@@ -29,6 +88,7 @@
 		},
 		{
 		"id": 2,
+		"dificultad":"Baja",
 		"nombre": "Tarta de manzana",
 		"tiempo": "50",
 		"ingredientes": [
@@ -65,6 +125,58 @@
 		],
 		"preparacion": "Cortar 2 manzanas en trocitos en un bol, añadir los huevos la leche y el azúcar, y batir. Añadir la harina y el azúcar y volver a batir. Hornear a 200 grados hasta que el cuchillo salga casi seco (30-35 min calculado a ojo). Decorar con la manzana en láminas y gratinar a maxima temperatura hasta que se tuesten las manzanas un poco. Sacar del horno y añadir la mezcla de mermelada de melocotón diluida en agua o zumo de melocotón.",
 		"imagen": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Tarta_de_manzana.jpg"
+		},
+		{
+		"id": 3,
+		"dificultad":"Media",
+		"nombre": "Parmentier de pescado",
+		"tiempo": "60",
+		"ingredientes": [
+			{
+				"id": 8,
+				"nombre": "Puerro",
+				"cantidad": "2",
+				"medida": "u"
+			},
+			{
+				"id": 9,
+				"nombre": "Nata líquida",
+				"cantidad": "200",
+				"medida": "ml"
+			},
+			{
+				"id": 10,
+				"nombre": "Merluza",
+				"cantidad": "4",
+				"medida": "lomos"
+			},
+			{
+				"id": 11,
+				"nombre": "Gambas",
+				"cantidad": "10",
+				"medida": "u"
+			},
+			{
+				"id": 12,
+				"nombre": "Mantequilla",
+				"cantidad": "50",
+				"medida": "gr"
+			},
+			{
+				"id": 13,
+				"nombre": "Zanahoria",
+				"cantidad": "1",
+				"medida": "u"
+			},
+			{
+				"id": 14,
+				"nombre": "Salmon",
+				"cantidad": "1",
+				"medida": "lomo"
+			}
+		],
+		"preparacion": "Muchas cosas",
+		"imagen": "../../public/assets/fish-pie.jpg"
 		}
 	]
 }
