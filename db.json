@@ -176,7 +176,7 @@
 			}
 		],
 		"preparacion": "Muchas cosas",
-		"imagen": "../../public/assets/fish-pie.jpg"
+		"imagen": "../assets/fish-pie.jpg"
 		}
 	]
 }
